@@ -1,6 +1,6 @@
-# Simple Binary Wavelet transform + Chebyshev map
+# Modified Binary Wavelet Transform + Chebyshev map
 
-This application implements the Binary Wavelet Transform combined with the Chebyshev Map and works only on single-channel images.
+This application implements the Modified Binary Wavelet Transform combined with the Chebyshev Map and works only on single-channel images.
 
 ## Recommended Environment
 
